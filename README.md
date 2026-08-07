@@ -1,4 +1,4 @@
-# ATRA protects Severe Fever with Thrombocytopenia Syndrome Virus systemic infection via the PPARγ-AP-1 anti-Inflammatory axis
+# All-trans retinoic acid suppresses systemic inflammation induced by severe fever with thrombocytopenia syndrome virus in mice
 
 - scripts: some function used in this program
 - data: the intermediate data during analysis
